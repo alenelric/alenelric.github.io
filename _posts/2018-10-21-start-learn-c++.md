@@ -2,7 +2,7 @@
 title: 再次学习C++
 key: 20181021
 date: 2018-10-21 16：17：30 +0800
-modify_date: 2018-10-21 18：00：00 +0800
+modify_date: 2018-10-21 18：47：00 +0800
 tags: c++ 算法
 ---
 
@@ -14,9 +14,9 @@ tags: c++ 算法
 
 然后作为一个初学者，我选择的语言大概不是很合适，或者说C/C++是一门对初学者不太友好的语言，尤其是C++。我个人觉得吧，如果C++学不进去，我就可以放弃学习编程了。
 <!--more-->
-之前断断续续看过郑莉老师 [C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_tv+2015_T1/info) 以及[C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2X_tv+2015_T1/courseware) ，大概是时间断断续续拖太久了，感觉也没学到什么东西。
+之前断断续续看过郑莉老师 [C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about) 以及[C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about) ，大概是时间断断续续拖太久了，感觉也没学到什么东西。
 
-目前主要是在看[基于Linux的C++](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20740084X+sp/courseware) ~~虽然我用的是windows~~ ，然后尽量将习题做出来之后再看后续视频，感觉上稍微舒服一点了。虽然算法、程序思维什么的基本没有，旁边一本<<C++ Primer 5th>>中文版看着就头大...不过总算是在继续了。
+目前主要是在看[基于Linux的C++](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20740084X+sp/about) ~~虽然我用的是windows~~ ，然后尽量将习题做出来之后再看后续视频，感觉上稍微舒服一点了。虽然算法、程序思维什么的基本没有，旁边一本<<C++ Primer 5th>>中文版看着就头大...不过总算是在继续了。
 
 然后贴一下习题好了
 >5.1编写函数，返回1~52之间的随机数。
